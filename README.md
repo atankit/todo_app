@@ -45,9 +45,8 @@ The To-Do List Application is a feature-rich Flutter app that helps users manage
   + Error Handling: Graceful handling of missing images and database issues.
 
 ### Screenshot-
-<a href="https://github.com/user-attachments/assets/79ba0615-1059-4123-b366-55a1ac88156f">
-    <img src="preview-image-url" alt="Video Preview" width="200">
-</a>
+[Watch the video](https://github.com/user-attachments/assets/79ba0615-1059-4123-b366-55a1ac88156f)
+
 
  
 
