@@ -1,16 +1,41 @@
-# todo
+# To-Do List Application
 
-A new Flutter project.
+## Overview-
+The To-Do List Application is a feature-rich Flutter app that helps users manage their tasks efficiently. It provides intuitive UI and robust functionality, allowing users to create, edit, delete, and organize tasks with ease. The app uses SQLite for persistent storage and includes advanced features such as search, multi-select, sharing, and multimedia support.
 
-## Getting Started
+### Features-
+  + Add, Edit, and Delete Tasks: Users can create tasks, modify their details, and remove them as needed.
+  + Persistent Storage: Tasks are stored in a SQLite database for reliable and consistent access.
+  + ListView Display: Tasks are shown in a ListView with essential details such as:
+     - Title
+     - Description
+     - Created Date
+     - Edited Date
+     - Completion Date 
 
-This project is a starting point for a Flutter application.
+### Advanced Features-
+  + Multi-Select and Delete: Users can select multiple tasks at once for deletion.
+  + Mark as Done: Tasks can be marked as completed, with visual indicators to distinguish completed tasks.
+  + Search and Highlight:
+     - Search for tasks by title and description.
+     - Highlight matching words in search results.
+  + Add Photos and Videos: Attach images and videos to tasks for richer context.
+  + Share Tasks: Share task details with other applications.
+  + Text Selection and Editing: Enable text selection, copying, and cutting in task descriptions.
+    
+### Sorting Options-
+  + Sort Tasks:
+     - By title (alphabetical order).
+     - Sort by completion (latest/earliest first).
 
-A few resources to get you started if this is your first Flutter project:
+### Customization-
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+  + Background Images: Add images to the task details background, with graceful handling if an image is missing.
+  + Color Selection: Choose task colors, supported in the database upgrade.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Technical Details-
+  + Platform: Flutter (Dart).
+  + Multimedia Handling: Supports photo and video attachments.
+  + Error Handling: Graceful handling of missing images and database issues.
+
+### Screenshot-
