@@ -18,6 +18,7 @@ The To-Do List Application is a feature-rich Flutter app that helps users manage
     -  <img src="https://github.com/user-attachments/assets/b855aba8-9e92-4f0b-8977-b7a7f0c68994" width="200" />
      
   + Mark as Done: Tasks can be marked as completed, with visual indicators to distinguish completed tasks.
+     -  <img src="https://github.com/user-attachments/assets/94a592f2-9c46-4c41-bea2-88a1e5be34e9" width="200" />
   + Search and Highlight:
      - Search for tasks by title and description.
      - Highlight matching words in search results.
