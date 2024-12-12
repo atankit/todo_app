@@ -15,7 +15,7 @@ The To-Do List Application is a feature-rich Flutter app that helps users manage
 
 ### Advanced Features-
   + Multi-Select and Delete: Users can select multiple tasks at once for deletion.
-     <img src="https://github.com/user-attachments/assets/b855aba8-9e92-4f0b-8977-b7a7f0c68994" width="100" />
+    -  <img src="https://github.com/user-attachments/assets/b855aba8-9e92-4f0b-8977-b7a7f0c68994" width="100" />
      
   + Mark as Done: Tasks can be marked as completed, with visual indicators to distinguish completed tasks.
   + Search and Highlight:
