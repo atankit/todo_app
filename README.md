@@ -22,6 +22,7 @@ The To-Do List Application is a feature-rich Flutter app that helps users manage
   + Search and Highlight:
      - Search for tasks by title and description.
      - Highlight matching words in search results.
+     -   <img src="https://github.com/user-attachments/assets/64673d88-26c0-4a05-ae0c-3b365f83d1e2" width="200" />
   + Add Photos and Videos: Attach images and videos to tasks for richer context.
   + Share Tasks: Share task details with other applications.
   + Text Selection and Editing: Enable text selection, copying, and cutting in task descriptions.
